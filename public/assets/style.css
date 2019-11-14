@@ -775,3 +775,110 @@ nav a:hover {
     transform: scaleY(1);
   }
 }
+
+/* ----------------------------------------------New Sacco-------------------------------------------------- */
+/* .main{
+  max-width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding:1em;
+} */
+ 
+.register{
+  padding-left: 20px;
+  padding-right: 30px;
+}
+
+
+.Header3 {
+  font-size:16px;
+  color:black;
+  padding-left:5px;
+}
+
+
+.form-container{
+  background-color: white;
+  /* margin-top:18px;
+  margin-left:16px;
+  margin-right:20px;
+  margin-bottom:2px; */
+  /* max-width:100%; */
+  padding-left: 20px;
+}
+
+/*form-headers*/
+.Sacco-Header{
+  font-size:16px;
+  font-weight:500;
+  color:grey;
+  padding-left:4px;
+  border-bottom:1px solid  rgb(148, 142, 142);
+  margin-top:3px;
+  margin-bottom:10px;
+}
+
+.Admin-Header{
+  font-size:16px;
+  font-weight:500;
+  color:grey;
+  padding-left:4px;
+  border-bottom:1px solid rgb(148, 142, 142);
+  margin-top:6px;
+  margin-bottom:10px;
+}
+
+
+/* labels */
+.New-Sacco-Field{
+  font-size:11px;
+  font-weight:bolder;
+  color:black;
+  padding-left:5px;
+  padding-right:5px;
+  margin-right:0.5px;
+  display:block;
+ }
+ 
+.New-Manager-Field{
+  font-size:11px;
+  color:black;
+  font-weight:bold;
+  /* padding-left:17px;
+  padding-right:20px; */
+  display:block;
+}
+
+/* Input fields*/
+
+/* input[type=text] {
+  border-radius:5px;
+} */ 
+
+textarea[id=message] {
+  width: 900px;
+  height: 100px;
+  border-radius: 3px;
+}
+
+.saccoinput {
+  width: 250px;
+  border-radius: 3px;
+  border: .5px solid rgba(0, 0, 0, 0.197);
+  margin-bottom:2px;
+  padding-bottom:10px;
+  padding-top:5px;
+}
+
+
+.Register{
+float: right;
+}
+
+/*Input Fields*/
+
+
+.row{
+  margin-bottom:3px;
+}
+
